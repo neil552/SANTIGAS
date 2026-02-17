@@ -78,7 +78,7 @@ nav a:hover::after{
 /* HERO */
 .hero{
     height:100vh;
-    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("../img/gas-natural-fenosa-emision-bonos-verdes.png") center/cover no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("gas-natural-fenosa-emision-bonos-verdes.png") center/cover no-repeat;
     display:flex;
     flex-direction:column;
     justify-content:center;
@@ -276,3 +276,4 @@ footer{
         font-size:2rem;
     }
 }
+
